@@ -1,0 +1,31 @@
+{
+  "name": "datastructures-algorithms",
+  "version": "1.0.0",
+  "description": "Datastructures and Algorithums in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muthuskumar7/datastructures-algorithms.git"
+  },
+  "keywords": [
+    "datastructure",
+    "algorithm",
+    "leetcode",
+    "javascript",
+    "coding",
+    "samples"
+  ],
+  "author": "Muthukumar Sudalaiyandi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muthuskumar7/datastructures-algorithms/issues"
+  },
+  "homepage": "https://github.com/muthuskumar7/datastructures-algorithms#readme",
+  "comment_for_dependencies": "Dependencies are using PP registry when using in other laptop, remove package-lock.json and do a fresh install",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
